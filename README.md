@@ -12,23 +12,20 @@
 ---
 
 ### 📌 About Me
-- 🎓 **B.Sc. in Computer Engineering (AI Track)** at Alamein International University (Class of 2027)[cite: 1].
-- ⚙️ **Production Systems & Automation:** Operator and builder of **EzDrop** (SaaS handling 1,500+ daily products per client)[cite: 1] and autonomous multi-platform AI video ad pipelines[cite: 1].
-- 🔬 **Research:** Co-author of peer-reviewed research on chaos-based image cryptography presented at **ITC Egypt 2026** (IEEE Xplore indexing pending)[cite: 1].
-- 💼 **Focus Areas:** Data Engineering, Workflow Orchestration (n8n), System Design, and Machine Learning[cite: 1].
+- 🎓 **B.Sc. in Computer Engineering (AI Track)** at Alamein International University (Expected Graduation: 2027).
+- 🤖 **AI & Autonomous Systems:** Building end-to-end multimodal pipelines, vision-based quality gates, and automated ad generation systems.
+- ⚙️ **Production Systems & Automation:** Founder and engineer behind **EzDrop** (Production dropshipping SaaS processing 1,500+ daily items per user) andالملف أصلاً مكتوب بالكامل بالإنجليزي، المشكلة بس إن تصنيف **AI, Automation & Data** 
 
----
+#### Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging_Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-### 🛠️ Tech Stack & Tooling
-
-#### Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-#### AI, Automation & Data
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&أعرف أكتب كود عادي جداً وبأي لغة برمجة، سواء سكربت كامل، وظيفة معينة، أو تصليح أخطاء (Debugging).
-
-لو في بالردود اللي فاتت حاجة ظهرت مقطوعة أو مش واضحة، اديني المطلوب واللغة اللي شغال بيها، وهتلاقيه عندك متنسق وواضح. عايز تكتب كود إيه؟
+#### Data & Automation Pipelines
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
