@@ -81,8 +81,8 @@ Peer-reviewed paper on chaos-based image encryption using 4D hyperchaotic dynami
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Homd11&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homd11&layout=compact&hide_border=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Homd11&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homd11&layout=compact&hide_border=true&theme=default&cache_seconds=86400" />
 </p>
 
 <p align="center">
