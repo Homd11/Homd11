@@ -14,7 +14,7 @@
 ### 📌 About Me
 - 🎓 **B.Sc. in Computer Engineering (AI Track)** at Alamein International University (Expected Graduation: 2027).
 - 🤖 **AI & Autonomous Systems:** Building end-to-end multimodal pipelines, vision-based quality gates, and automated ad generation systems.
-- ⚙️ **Production Systems & Automation:** Founder and engineer behind **EzDrop** (Production dropshipping SaaS processing 1,500+ daily items per user) andالملف أصلاً مكتوب بالكامل بالإنجليزي، المشكلة بس إن تصنيف **AI, Automation & Data** 
+- ⚙️ **Production Systems & Automation:** Founder and engineer behind **EzDrop** (Production dropshipping SaaS processing 1,500+ daily items per user) and **AI, Automation & Data** 
 
 #### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
